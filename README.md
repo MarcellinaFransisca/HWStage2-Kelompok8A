@@ -1,5 +1,7 @@
 # HWStage2-Kelompok8A
 
+Hai, ini hasil dari HomeWork kami mengenai Data Pre-Processing dari hasil diskusi kami, kami hendak menambahkan beberapa fitur dari dataset tersebut diantaranya adalah sebagai berikut :
+
 4 feature tambahan
 
 1. Feature Importance :
